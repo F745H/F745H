@@ -211,7 +211,7 @@
         <img src="./Assets/John.png" width="48" height="48" alt="John" />
       </a>
       <br>John The Ripper
-    </td
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./Assets/git.png" width="48" height="48" alt="Git" />
