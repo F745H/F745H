@@ -9,7 +9,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width=270 height=220></picture>
 
 - 👋 Hi, I’m [F745H](https://github.com/F745H/)
-- 👀 I’m a Linux Enthusiast.
+- 👀 I’m a Computer Geek.
 - 🌱 I’m currently learning with Google and ChatGPT.
 - 💞️ I’m looking to collaborate with cybersecurity python projects.
 - 💬 Ask me about Linux, Networking, Scripting and Cybersecurity.
