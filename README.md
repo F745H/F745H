@@ -26,6 +26,7 @@
 </br>
 
 > Progamming languages
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -257,12 +258,9 @@
     </tr>
 </table>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyankatesh-pipalwa) 
 
-
-
-
-
-
-
+</br>
 
 ![](https://komarev.com/ghpvc/?username=F745H&color=orange)
