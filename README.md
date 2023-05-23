@@ -1,16 +1,255 @@
-### Hi there 👋
+</br>
+<h1 align="center"><b>Welcome to Vyankatesh Pipalwa's profile! </b><img src="https://media.giphy.com/media/d91mOUkiBnKjgMhjBp/giphy.gif" width="35"></h1>
+</br>
 
-<!--
-**F745H/F745H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/F745H/"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Vyankatesh+Pipalwa,;I'm+Linux+Enthusiast,;Cyber+Security+Student,;CTF+Player,;I+am+a+system+admin,;I+am+a+Active+Learner/Researcher..<3"></a></p>
 
-Here are some ideas to get you started:
+## <picture><img src = "https://github.com/F745H/F745H/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
+<picture> <img align="right" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width=270 height=220></picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m [F745H](https://github.com/F745H/)
+- 👀 I’m a Linux Enthusiast.
+- 🌱 I’m currently learning with Google and ChatGPT.
+- 💞️ I’m looking to collaborate with cybersecurity python projects.
+- 💬 Ask me about Linux, Networking, Scripting and Cybersecurity.
+- 📫 How to reach me .. By my LinkedIn [Profile](https://www.linkedin.com/in/vyankatesh-pipalwa).
+- Every day, I am dedicated to enhance my skills by learning new technologies to become 1% better than past my self.
+</br>
+
+## :triangular_flag_on_post: CTF Profiles:
+<div align="center">
+ <a href="https://tryhackme.com/p/Venky1"><img src="https://tryhackme-badges.s3.amazonaws.com/Venky1.png" alt="TryHackMe" width=250 height=65></a>
+ <a href="https://app.hackthebox.com/profile/1020805"><img src="https://www.hackthebox.com/badge/image/1020805" alt="HackTheBox" width=250 height=65></a>
+</div>
+
+</br>
+
+> Progamming languages
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/sql.png" width="48" height="48" alt="Sql" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/c.png" width="48" height="48" alt="c" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="/Assets/c++.png" width="48" height="48" alt="CPP" />
+      </a>
+      <br>C++
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/html.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/bash.png" width="48" height="48" alt="#" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/power.png" width="48" height="48" alt="Poweshell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/Batch.png" width="48" height="48" alt="Batch" />
+      </a>
+      <br>Batch
+    </td>
+    </tr>
+</table>
+
+> Frameworks and libraries
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/ardoino.png" width="48" height="48" alt="Arduino" />
+      </a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/github.png" width="48" height="48" alt="Github" />
+      </a>
+      <br>GitHub-Action
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/wordpress.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Wordpress
+    </td>
+    </tr>
+</table>
+
+> Databases and cloud hosting
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/github.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>GitHub Page
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/mysql-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>my-sql
+    </td>
+    </tr>
+</table>
+
+> operating system
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/kali.png" width="48" height="48" alt="Kali" />
+      </a>
+      <br>kali
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/windo.png" width="48" height="48" alt="Windows" />
+      </a>
+      <br>Windows
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/Linux_Mint.png" width="48" height="48" alt="Mint" />
+      </a>
+      <br>Linux Mint
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/pi.png" width="48" height="48" alt="Pi" />
+      </a>
+      <br>Raspberry pi
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/redhat-original.svg" width="48" height="48" alt="Redhat" />
+      </a>
+      <br>Ret-Hat
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/arch.png" width="48" height="48" alt="Arch" />
+      </a>
+      <br>ARCH
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/ando.png" width="48" height="48" alt="Android" />
+      </a>
+      <br>android
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/crom.png" width="48" height="48" alt="Chrome" />
+      </a>
+      <br>Chrome OS
+    </td>
+    </tr>
+</table>
+
+> Software and tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/nmap.png" width="48" height="48" alt="Nmap" />
+      </a>
+      <br>nmap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/burp-suite.png" width="48" height="48" alt="Burp" />
+      </a>
+      <br>BurpSuite
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/git.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./img/p.png" width="48" height="48" alt="Proteus" />
+      </a>
+      <br>Proteus
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="./img/k.png" width="48" height="48" alt="Keil" />
+      </a>
+      <br>Keil
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="/Assets/shark.png" width="48" height="48" alt="shark" />
+      </a>
+      <br>wiershark
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/vs.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Visual Studio
+    </td>
+     <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/jnote.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Jupyter Notebook
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/sublime.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Sublime
+    </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=F745H&color=orange)
