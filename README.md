@@ -184,6 +184,7 @@
 </table>
 
 > Software and tools
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -200,41 +201,53 @@
     </td>
     <td align="center" width="96">
       <a href="#">
+        <img src="./Assets/Hashcat.png" width="48" height="48" alt="Hashcat" />
+      </a>
+      <br>Hashcat
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/John.png" width="48" height="48" alt="John" />
+      </a>
+      <br>John The Ripper
+    </td
+    <td align="center" width="96">
+      <a href="#">
         <img src="./Assets/git.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="./img/p.png" width="48" height="48" alt="Proteus" />
+        <img src="./Assets/THC-Hydra.png" width="48" height="48" alt="Hydra" />
       </a>
-      <br>Proteus
+      <br>Hydra
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="./img/k.png" width="48" height="48" alt="Keil" />
+        <img src="./Assets/metasploit_rapid7_image-removebg-preview.png" width="48" height="48" alt="Metasploit" />
       </a>
-      <br>Keil
+      <br>Metasploit
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="/Assets/shark.png" width="48" height="48" alt="shark" />
       </a>
-      <br>wiershark
+      <br>wireshark
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./Assets/vs.png" width="48" height="48" alt="TypeScript" />
+        <img src="./Assets/GHIDRA.png" width="48" height="48" alt="Ghidra" />
+      </a>
+      <br>Ghidra
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./Assets/vs.png" width="48" height="48" alt="Vs" />
       </a>
       <br>Visual Studio
     </td>
      <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/jnote.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Jupyter Notebook
-    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./Assets/sublime.png" width="48" height="48" alt="TypeScript" />
