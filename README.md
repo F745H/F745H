@@ -3,8 +3,9 @@
 </br>
 
 <p align="center">
-  <a href="https://github.com/F745H/"><img src="https://readme-typing-svg.herokuapp.com?lines=Linux+Enthusiast,;OSCP+Aspirant,;CTF+Player,;Cyber+Security+Student,;System+Admin,;Active+Learner/Researcher+:)"></a></p>
- 
+  <a href="https://github.com/F745H/"><img src="https://readme-typing-svg.herokuapp.com?lines=Linux+Enthusiast,;OSCP+Aspirant,;CTF+Player,;Cyber+Security+Student,;Active+Learner/Researcher+:)"></a>
+</p>
+
 ## <picture><img src = "https://github.com/F745H/F745H/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width=270 height=220></picture>
 
@@ -15,7 +16,11 @@
 - 💬 Ask me about Linux, Networking, Scripting and Cybersecurity.
 - 📫 How to reach me .. By my LinkedIn [Profile](https://www.linkedin.com/in/vyankatesh-pipalwa).
 - Every day, I am dedicated to enhance my skills by learning new technologies to become 1% better than past my self.
-</br>
+___
+
+<div align="center">
+<a href="https://github.com/F745H/F745H/blob/main/Cert.md"><img src="https://github.com/F745H/F745H/assets/102409904/b80cc5ca-9626-4c7b-aea7-9b31d639717d"></img></a>
+</div>
 
 ## :triangular_flag_on_post: CTF Profiles:
 <div align="center">
