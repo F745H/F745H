@@ -19,8 +19,12 @@
 ___
 
 <div align="center">
-<a href="https://github.com/F745H/F745H/blob/main/Cert.md"><img src="https://github.com/F745H/F745H/assets/102409904/b80cc5ca-9626-4c7b-aea7-9b31d639717d"></img></a>
+  
+[![Certificates](https://github.com/F745H/F745H/assets/102409904/b80cc5ca-9626-4c7b-aea7-9b31d639717d)](https://github.com/F745H/F745H/blob/main/Cert.md "Certificates")
+
 </div>
+
+
 
 ## :triangular_flag_on_post: CTF Profiles:
 <div align="center">
