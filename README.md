@@ -19,9 +19,8 @@
 ___
 
 <div align="center">
-  
-[![Certificates](https://github.com/F745H/F745H/assets/102409904/b80cc5ca-9626-4c7b-aea7-9b31d639717d)](https://github.com/F745H/F745H/blob/main/Cert.md "Certificates")
-
+<a href="https://github.com/F745H/F745H/blob/main/Cert.md">
+<img src="./Assets/Certificates.png" alt="Python" /></a>
 </div>
 
 
