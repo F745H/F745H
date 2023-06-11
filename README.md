@@ -19,7 +19,7 @@
 ___
 
 <div align="center">
-<a href="https://github.com/F745H/F745H/blob/main/Cert.md">
+<a href="https://github.com/F745H/F745H/blob/main/cert.md">
 <img src="./Assets/Certificates.png" alt="Python" /></a>
 </div>
 
