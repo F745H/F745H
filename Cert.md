@@ -1,6 +1,6 @@
 # CERTIFICATES
 
-## Table of Contents 
+## Table of Certificates
 <details open>
 <summary><b>(click to expand or hide)</b></summary>
   
